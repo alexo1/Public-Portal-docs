@@ -46,34 +46,14 @@ Starting page
 .. image:: /public-portal-screenshots/startpage.png
 
 
-This is where the user will start at when the application is initialised. 
-
-Where he will have different options to choose from in the navigation area.
-
-On the dashboard is where we have all the stored dashboard by the user. 
-
-Downloads this where a user can be able to download any content that is 
-
-publicly avaiable for download from the DHIS2 application. This can 
-
-easily reduce the user barden of having to know how to use DHIS2 application 
-
-which may seem difficulty for a user who does not know how to interact with 
-
-DHIS2 web app.
+This is where the user will start at when the application is initialised. Where he will have different options to choose from in the navigation area. On the dashboard is where we have all the stored dashboard by the user. Downloads this where a user can be able to download any content that is publicly avaiable for download from the DHIS2 application. This can easily reduce the user barden of having to know how to use DHIS2 application which may seem difficulty for a user who does not know how to interact with DHIS2 web app.
 
 
 
 API Endpoints
 ^^^^^^^^^^^^^
 
-**Api Endpoints** this is where a technical or a user from the public may want to 
-
-come and export data in various formats such as excel which can be handy if 
-
-you want to do some modification of the data to fit you. For instance, the 
-
-press can easly come to this page and collect data for their report.
+**Api Endpoints** this is where a technical or a user from the public may want to come and export data in various formats such as excel which can be handy if you want to do some modification of the data to fit you. For instance, the press can easly come to this page and collect data for their report.
 
 
 .. image:: /public-portal-screenshots/Api-endpoints.png
