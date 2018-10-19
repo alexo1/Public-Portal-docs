@@ -46,21 +46,21 @@ Starting page
 .. image:: /public-portal-screenshots/startpage.png
 
 
- This is where the user will start at when the application is initialised. 
+This is where the user will start at when the application is initialised. 
 
- Where he will have different options to choose from in the navigation area.
+Where he will have different options to choose from in the navigation area.
 
- On the dashboard is where we have all the stored dashboard by the user. 
+On the dashboard is where we have all the stored dashboard by the user. 
 
- Downloads this where a user can be able to download any content that is 
+Downloads this where a user can be able to download any content that is 
 
- publicly avaiable for download from the DHIS2 application. This can 
+publicly avaiable for download from the DHIS2 application. This can 
 
- easily reduce the user barden of having to know how to use DHIS2 application 
+easily reduce the user barden of having to know how to use DHIS2 application 
 
- which may seem difficulty for a user who does not know how to interact with 
+which may seem difficulty for a user who does not know how to interact with 
 
- DHIS2 web app.
+DHIS2 web app.
 
 
 
