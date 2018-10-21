@@ -78,6 +78,14 @@ Login
 
 
    
+Add
+^^^
+
+
+.. image:: /public-portal-screenshots/PublicPortalAdd.png
+
+This is a page where a user can add a customized dashbaoard that can be saved . A user can enter a prefered title and description on the title and description box respectively then choose item to save.
+
 
 
 
