@@ -3,6 +3,7 @@ Public web Portal Documentation
 ===============================
 
 
+=========
 Chapter 1
 =========
 
@@ -17,7 +18,7 @@ Since the health sector has devolved it is necessary to give the various organis
 
 Here is some text explaining some very complicated stuff.::
 
-        
+
 
 
 
@@ -37,6 +38,8 @@ Design and develop a web portal  that :
 
 3. County officers will be able to log in and select the various dashboard from dhis2.
 
+
+=========
 Chapter 2
 =========
 
@@ -77,7 +80,7 @@ Login
 
 
 
-   
+
 Add
 ^^^
 
