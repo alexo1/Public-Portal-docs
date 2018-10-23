@@ -68,6 +68,7 @@ News
 
 
 **News** page is a page where will be delivering news according to our reports.
+Its simply a blog section where an admin can upload infomation which will be seen by the public , an admin can issue an outbreak of a disease e.g cholera outbreak
 
 
 
