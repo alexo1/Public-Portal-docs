@@ -27,7 +27,10 @@ Objectives
 
 Design and develop a web portal  that :
 
-1.Will help the public have access to DHIS2 aggregate data via the portal.
+1. Will help the public have access to DHIS2 aggregate data via the portal.
+
+
+
     -Based on organization unit
 
     -Period
